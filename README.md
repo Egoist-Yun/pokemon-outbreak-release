@@ -61,8 +61,8 @@ Windows 저장 폴더:
 자신의 생존 기록을 갱신해보세요.
 
 ## 의견과 오류 제보
-
-플레이 중 발견한 문제나 개선 의견은 Issues에 남겨주세요.
+플레이 중 발견한 문제나 개선 의견은 [Issues](https://github.com/Egoist-Yun/pokemon-outbreak-release/issues)에 남겨주세요.
+링크 안 페이지의 우측 상단의 New issues를 누르면 작성 가능합니다.
 오류 제보에는 아래 내용을 함께 적어주시면 도움이 됩니다.
 
 - 게임 버전과 플레이 플랫폼
