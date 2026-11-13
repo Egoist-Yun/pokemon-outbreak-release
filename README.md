@@ -21,6 +21,18 @@
 | Android | Releases에서 최신 APK를 다운로드한 뒤 설치 |
 
 
+## 최신 버전
+
+현재 버전: **v0.5.0** (테스트 배포)
+
+| 플랫폼 | 다운로드 |
+|---|---|
+| Windows | [Pokemon-Outbreak.exe](https://github.com/Egoist-Yun/pokemon-outbreak-release/releases/latest/download/Pokemon-Outbreak.exe) |
+| Android (arm64) | [Pokemon-Outbreak.apk](https://github.com/Egoist-Yun/pokemon-outbreak-release/releases/latest/download/Pokemon-Outbreak.apk) |
+| 웹 | [pokemonoutbreak.com](https://pokemonoutbreak.com/) |
+
+변경 내용과 이전 버전은 [릴리스 페이지](https://github.com/Egoist-Yun/pokemon-outbreak-release/releases)에서 확인할 수 있습니다.
+
 ## 세이브 파일
 
 - Windows 저장 폴더:
